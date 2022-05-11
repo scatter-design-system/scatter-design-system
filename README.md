@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @scatter-design-system
-- 👀 I am a core part of the CULTR
+👋 Hi, I’m @scatter-design-system
+<br>
+👀 I am a core part of the CULTR
